@@ -1,0 +1,14 @@
+.cart{
+    position: sticky;
+    top: 0;
+    display: grid;
+    justify-content: center;
+}
+.cart h2{
+    color: darkred;
+    text-align: center;
+}
+
+.btn_chooseAgain{
+    margin-top: 10px;
+}
