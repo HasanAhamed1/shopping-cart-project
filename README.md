@@ -1,7 +1,18 @@
-# Getting Started with Create React App
+# SHOPPING CART
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## YOU CAN FIND
+**Here  we can buy some items. You can add items to the cart. also you have an option to change the opinion**
+
+### Tools used:
+- json file
+- DOM
+- CSS
+
+### wanna communicate:
+
+[if want communicate](https://www.facebook.com/akash.hossain.75457081/)
 ## Available Scripts
 
 In the project directory, you can run:
