@@ -17,11 +17,11 @@ const Cart = (props) => {
         </div>
       </h2>
       {/* ADDED BUTTON FOR FINDING RANDOM ONE */}
-      <button onClick={() => chooseOne()}>Choose any one</button>
+      <button onClick={() => chooseOne()} className= "buttoncolor">Choose any one</button>
         <h2 className="random" key={randomProduct.id}>{randomProduct.name}</h2>
 
         {/* ADDED BUTTON FOR CHOOSING AGAIN */}
-      <button className="btn_chooseAgain" onClick={() => chooseAgain()}>
+      <button className="btn_chooseAgain buttoncolor" onClick={() => chooseAgain() }>
         Choose again
       </button>
     </div>

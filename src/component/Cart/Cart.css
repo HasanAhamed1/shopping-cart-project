@@ -5,10 +5,15 @@
     justify-content: center;
 }
 .cart h2{
-    color: darkred;
+    color: rgb(94, 90, 82);
     text-align: center;
 }
 
 .btn_chooseAgain{
     margin-top: 10px;
+}
+.buttoncolor{
+    color: white;
+    font-weight: bold;
+    background-color: rgb(107, 104, 122);
 }
